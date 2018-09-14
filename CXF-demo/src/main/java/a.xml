@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HNISI>
+    <Head>
+        <Version>1.0</Version>
+    </Head>
+    <Info>
+        <Output>
+            <HashParams>
+                <HashParam Name="MSG" Value="执行成功!"/>
+                <HashParam Name="message" Value=""/>
+                <HashParam Name="FHZ" Value="1"/>
+                <HashParam Name="code" Value="1"/>
+            </HashParams>
+            <DataPackage>
+                <DataSet DSName="DataSet">
+                    <Row RowID="1">
+                        <Col ColName="XTJGDM" ColValue="顺德区局"/>
+                        <Col ColName="JZLB" ColValue="特定门诊"/>
+                        <Col ColName="RYRQ" ColValue="2017-01-16"/>
+                        <Col ColName="GMSFHM" ColValue="321"/>
+                    </Row>
+                    <Row RowID="2">
+                        <Col ColName="XTJGDM" ColValue="顺德区局"/>
+                        <Col ColName="JZLB" ColValue="特定门诊"/>
+                        <Col ColName="RYRQ" ColValue="2017-02-20"/>
+                        <Col ColName="GMSFHM" ColValue="123"/>
+                    </Row>
+                </DataSet>
+            </DataPackage>
+        </Output>
+    </Info>
+</HNISI>
